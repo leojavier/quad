@@ -8,7 +8,7 @@ MPU | Arduino Ports | Quadcopter Engines
 VCC | 3.3V | ~3 red-1
 GND | GND | ~5 red-2
 SCL | A5 | ~9 white-1
-SDA | A4 | ~10 white-2
+SDA | A4 | ~6 white-2
 ADO | GND
 
 
