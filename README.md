@@ -19,8 +19,8 @@ ADO | GND
 HC-SR04 | Arduino Ports
 ------------ | -------------
 VCC | 5V 
-TRIG | ~11 
-ECHO | ~9 
+TRIG | ~12 
+ECHO | ~11 
 GND | GND
 
 ####HC-SR04 Quadcopter Engine Configuration
