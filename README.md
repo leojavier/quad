@@ -5,10 +5,10 @@
 
 MPU | Arduino Ports | Quadcopter Engines
 ------------ | ------------- | -------------
-VCC | 3.3V | ~3
-GND | GND | ~5
-SCL | A5 | ~9
-SDA | A4 | ~10
+VCC | 3.3V | ~3 red-1
+GND | GND | ~5 red-2
+SCL | A5 | ~9 white-1
+SDA | A4 | ~10 white-2
 ADO | GND
 
 
@@ -28,7 +28,7 @@ GND | GND
 
 Quadcopter Escalator | Arduino Ports
 ------------ | -------------
-Red-1 | 5V 
-Red-2 | ~11 
-White-1 | ~9 
-White-2 | GND
+Red-1 | ~5 
+Red-2 | ~3 
+White-1 | ~6 
+White-2 | ~9
