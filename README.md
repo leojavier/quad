@@ -31,4 +31,10 @@ Quadcopter Escalator | Arduino Ports
 Red-1 | ~5 
 Red-2 | ~3 
 White-1 | ~6 
-White-2 | ~9
+White-2 (Main Escalator) | ~9
+
+Main escalator| Arduino Ports
+------------ | -------------
+Red cable | VIN 
+Black cable | GND 
+White cable | ~9 
