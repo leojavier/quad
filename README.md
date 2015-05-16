@@ -23,7 +23,7 @@ TRIG | ~11
 ECHO | ~9 
 GND | GND
 
-####HC-SR04 Ultrasound sensor Configuration
+####HC-SR04 Quadcopter Engine Configuration
 
 
 Quadcopter Escalator | Arduino Ports
